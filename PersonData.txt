@@ -1,0 +1,5 @@
+000001, Aragorn, Elessar, Mr., 1960
+000002, Arwen, Undomiel, Ms., 1975
+000003, Gandalf, Grey, Dr., 1940
+000004, Gimli, Gloin, Mr., 1985
+000005, Legolas, Greenleaf, Prof., 2001
